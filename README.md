@@ -6,3 +6,5 @@
  Esta linha foi adicionada no Git Terminal.
 teste
 teste
+teste
+teste
